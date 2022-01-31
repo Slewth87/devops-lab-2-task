@@ -2,4 +2,4 @@
 Richard Duffy x20195966
 [rduffy lab 2](https://github.com/rduffyncirl/devops-lab-2-task/)
 ---
-bash script.md
+To run the script.sh run: `bash script.sh`
