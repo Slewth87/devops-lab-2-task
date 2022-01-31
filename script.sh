@@ -1,4 +1,6 @@
 #!/bin/bash
+rm -R fol_1
+rm -R fol_2
 mkdir fol_1
 mkdir fol_2
 cd fol_1
