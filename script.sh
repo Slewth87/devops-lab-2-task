@@ -13,7 +13,7 @@ touch 2_2.txt
 touch 2_3.txt
 cd ..
 touch .gitignore
-echo .gitignore >> .gitignore
+echo ".gitignore" >> .gitignore
 echo fol_1 >> .gitignore
 echo fol_2 >> .gitignore
 chmod 600 fol_1/1_1.txt
